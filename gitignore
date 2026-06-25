@@ -1,0 +1,7 @@
+
+# Build Outputs
+dist/
+build/
+out/
+*.min.js
+*.min.css
