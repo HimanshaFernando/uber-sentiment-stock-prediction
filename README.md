@@ -229,7 +229,7 @@ If Git LFS is not pulled correctly, these CSV files may contain only a small poi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HimanshaFernando/uber-sentiment-stock-predictio
 cd uber-sentiment-stock-prediction-main
 ```
 
